@@ -4,7 +4,7 @@ My name is Benjamín Haverla, and I live in Martin, Slovakia. I studied Informat
 
 Of course, this is just small piece of my [personality](https://filmfreeway.com/BenjaminHaverla), and I strongly believe that what is on paper does not fully describe me what I am capable of. Maybe I can share my whole story some other time. For now, I would like to share one piece of my experience, starting with the word:
 
-## [AWESOME](https://github.com/BenjaminHaverla/English-essay.git) 
+## [AWESOME](https://github.com/BenjaminHaverla/English-essay.md) 
 
 ### Workflow of my English essay
 
