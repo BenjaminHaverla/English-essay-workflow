@@ -10,5 +10,3 @@ Of course, this is just small piece of my [personality](https://filmfreeway.com/
 - [First draft](https://github.com/BenjaminHaverla/First-draft.git)
 - [Revision]()
 - [Review]()
-
-![A cute, small baby is hitting a laptop with its hands](https://giphy.com/gifs/realfoodrn-working-fast-typing-baby-SAIGPdSohpC7JdRcHT)
