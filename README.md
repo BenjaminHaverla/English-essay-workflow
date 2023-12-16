@@ -15,7 +15,6 @@ Of course, this is just small piece of my [personality](https://github.com/Benja
 
 #### BACK TO THE:
 ##### [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
-##### [Benjamín Haverla – Who am I ?](https://github.com/BenjaminHaverla/First-impression.git)
 #### Contact me:
 ###### **Mail**: haverla.tros@gmail.com
 
